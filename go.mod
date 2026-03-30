@@ -1,6 +1,6 @@
 module watermark
 
-go 1.22.7
+go 1.25.0
 
 require (
 	github.com/a-h/templ v0.2.778
@@ -13,7 +13,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.16 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
-	golang.org/x/image v0.19.0 // indirect
-	golang.org/x/text v0.17.0 // indirect
+	golang.org/x/image v0.38.0 // indirect
+	golang.org/x/text v0.35.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
